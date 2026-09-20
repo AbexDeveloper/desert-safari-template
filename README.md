@@ -1,6 +1,5 @@
 # Desert Dream Escapes
 
-I want to build a website like https://www.sunsetdesertsafari.com/ but totally different UI and will have multiple pages like every tour package have it's detailed page , and booking shall be of WhatsApp enquiry with selected package. Homepage shall be a modern and if possible Hero section shall have a 3D animation or Gif Animation or a images collapse animation.
 
 This project was built with [Lovable](https://lovable.dev).
 
